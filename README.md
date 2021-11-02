@@ -1,5 +1,13 @@
 # linebot19890604
 
+### 一. 自動部署 Heroku
+首先我們先做一個最簡單的 Echo Bot (也就是你跟他說什麼，他都會回覆一模一樣的話給你) 點擊下面紫色的 Deploy to Heroku 按鈕
+
+<a href="https://heroku.com/deploy?template=https://github.com/hsuanchi/Flask-LINE-Bot-Heroku/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
+
 # 公主連結優衣聊天機器人
 
 * 先說框架很廢 閒暇時獨立開發 沒用啥特別演算法 初學者可讀性很高
